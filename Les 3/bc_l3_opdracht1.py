@@ -1,6 +1,6 @@
-description = 'week'
+description = 'jaar'
 
-days = 7
+days = 365
 hours = days * 24
 minutes = hours * 60 
 seconds = minutes * 60
