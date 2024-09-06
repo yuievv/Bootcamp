@@ -15,4 +15,4 @@ else:
    print("De conditie is niet waar")
 
 
-print("UITLEG: ")
+print("UITLEG: De twee ifstatements hebben een andere uitkomst omdat de volgorde van operaties en het haakjes verschillend is. ")
